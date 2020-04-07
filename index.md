@@ -1,5 +1,10 @@
 ## Table of Contents 
 
+* [Overview](#overview)
+* [Case Ideas](#case-ideas)
+* [Services](#services)
+* [Mockup](#mock-up)
+
 ## Overview
 Our Final Project will be based on the Author: Christian Jensen.
 
@@ -12,5 +17,9 @@ The solution: Welcome to Study Spot, a place where students can go to find locat
 Moderators will fall on the landing page and once logged in will be given access to a hidden page where they can choose to flag or remove posts.
 Admin will fall on the landing page and once logged in will be given complete access to the site."
 
-## What the system should eventually provide
+## Services
 Students can provide the best study spots on campus in terms of traffic and noise level. Just submit a ticket with a geo pin. Other students can read these suggestions and rate the spots so there's credibility. The admin would probably have to filter through some of the submissions just in case there are repeatitive submissions. 
+
+## Mockup
+![](images/landing-page.png)
+![](images/profiles-page.png)
