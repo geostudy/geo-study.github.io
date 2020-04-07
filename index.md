@@ -21,5 +21,6 @@ Admin will fall on the landing page and once logged in will be given complete ac
 Students can provide the best study spots on campus in terms of traffic and noise level. Just submit a ticket with a geo pin. Other students can read these suggestions and rate the spots so there's credibility. The admin would probably have to filter through some of the submissions just in case there are repeatitive submissions. 
 
 ## Mockup
-![](images/landing-page.png)
-![](images/profiles-page.png)
+![](images/MapMockup.png)
+![](images/MapMockup2.png)
+![](images/MapMockup3.png)
