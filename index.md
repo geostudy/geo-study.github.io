@@ -24,3 +24,7 @@ Students can provide the best study spots on campus in terms of traffic and nois
 ![Mockup 1](images/MapMockup.png)
 ![Mockup 2](images/MapMockup2.png)
 ![Mockup 3](images/MapMockup3.png)
+
+#### Team members
+In Woo Park, Michael Chun, Sean Dunston, Newton Rasner
+
