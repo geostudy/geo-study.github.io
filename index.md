@@ -1,7 +1,7 @@
 ## Table of Contents 
 
 * [Overview](#overview)
-* [Case Ideas](#case ideas)
+* [Case Ideas](#case-ideas)
 * [Services](#services)
 * [Mockup](#mockup)
 * [Team](#team)
