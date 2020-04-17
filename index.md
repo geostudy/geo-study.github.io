@@ -31,7 +31,7 @@ Students can provide the best study spots on campus in terms of traffic and nois
 ![Mockup 2](images/login.png)
 
 * **Registration Page**
-![Mockup 3](images/registration.png)
+![Mockup 3](images/registration.PNG)
 
 * **Map page**
 ![Mockup 4](images/map.png)
