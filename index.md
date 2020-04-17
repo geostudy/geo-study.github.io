@@ -1,20 +1,30 @@
 ## Table of Contents 
 
 * [Team GEOstudy](#team-geostudy)
+* [Application](#application)
+* [Goals](#goals)
 * [Overview](#overview)
 * [User Implemenation](#user-implementation)
 * [Mockup](#mockup)
-* [Goals](#goals)
 
 ## Team GEOstudy
 * In Woo Park
 * Michael Chun
 * Sean Dunston
 * Newton Rasner
+
+## Application
 * [Organization Page](https://github.com/geostudy/)
 * [Running Application](http://geostudymhc3.meteorapp.com/#/)
 * [Milestone 1](https://github.com/geostudy/geostudy-source/projects/2)
 * [Milestone 2](https://github.com/geostudy/geostudy-source/projects/3)
+
+## Goals
+* Learn practical applications of coding.
+* Coding a project as a team.
+* Designing a website with Meteor/React.
+* Effectively using GitHub to manage the workload.
+* Implementing our knowledge from the class/past classes.
 
 ## Overview
 Students spend a lot of time studying and working on class assignments on school campus. The places that they choose to work can make the difference between getting things done or wasting your time. Not to mention the size of the campus with so many options to choose from.
@@ -58,10 +68,3 @@ Admins will be able to view and edit all user's spots as well as delete them onc
 * **Edit Spot page**
 ![Mockup 7](images/edit.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/edit)
-
-## Goals
-* Learn practical applications of coding.
-* Coding a project as a team.
-* Designing a website with Meteor/React.
-* Effectively using GitHub to manage the workload.
-* Implementing our knowledge from the class/past classes.
