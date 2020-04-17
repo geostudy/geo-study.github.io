@@ -1,9 +1,12 @@
 ## Table of Contents 
 
 * [Overview](#overview)
-* [Case Ideas](#case-ideas)
+* [Case Ideas](#case ideas)
 * [Services](#services)
-* [Mockup](#mock-up)
+* [Mockup](#mockup)
+* [Team](#team)
+* [Goals](#goals)
+* [Links](#links)
 
 ## Overview
 Our Final Project will be based on the Author: Christian Jensen.
@@ -21,10 +24,37 @@ Admin will fall on the landing page and once logged in will be given complete ac
 Students can provide the best study spots on campus in terms of traffic and noise level. Just submit a ticket with a geo pin. Other students can read these suggestions and rate the spots so there's credibility. The admin would probably have to filter through some of the submissions just in case there are repeatitive submissions. 
 
 ## Mockup
-![Mockup 1](images/MapMockup.png)
-![Mockup 2](images/MapMockup2.png)
-![Mockup 3](images/MapMockup3.png)
+* **Landing page**
+![Mockup 1](images/landing.png)
 
-#### Team members
-In Woo Park, Michael Chun, Sean Dunston, Newton Rasner
+* **Login Page**
+![Mockup 2](images/login.png)
 
+* **Registration Page**
+![Mockup 3](images/registration.png)
+
+* **Map page**
+![Mockup 4](images/map.png)
+
+* **Spots page**
+![Mockup 5](images/spots.png)
+
+* **Add Spots page**
+![Mockup 6](images/add.png)
+
+## Team
+* In Woo Park
+* Michael Chun
+* Sean Dunston
+* Newton Rasner
+
+## Goals
+* Learn practical applications of coding.
+* Coding a project as a team.
+* Designing a website with Meteor/React.
+* Effectively using GitHub to manage the workload.
+* Implementing our knowledge from the class/past classes.
+
+## Links
+* [Milestone 1](https://github.com/geostudy/geostudy-source/projects/2)
+* [Milestone 2](https://github.com/geostudy/geostudy-source/projects/3)
