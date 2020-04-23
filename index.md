@@ -9,9 +9,9 @@
 
 ## Team GEOstudy
 * [In Woo Park](https://inwoocs.github.io/)
-* [Michael Chun]()
-* [Sean Dunston]()
-* [Newton Rasner]()
+* [Michael Chun](https://mhkfchun.github.io/)
+* [Sean Dunston](https://sean-dunston.github.io/)
+* [Newton Rasner](https://newtonics.github.io/)
 
 ## Application
 * [Organization Page](https://github.com/geostudy/)
