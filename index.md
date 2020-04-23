@@ -8,10 +8,10 @@
 * [Mockup](#mockup)
 
 ## Team GEOstudy
-* In Woo Park
-* Michael Chun
-* Sean Dunston
-* Newton Rasner
+* [In Woo Park](https://inwoocs.github.io/)
+* [Michael Chun]()
+* [Sean Dunston]()
+* [Newton Rasner]()
 
 ## Application
 * [Organization Page](https://github.com/geostudy/)
