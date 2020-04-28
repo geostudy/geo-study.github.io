@@ -6,6 +6,8 @@
 * [Overview](#overview)
 * [User Implemenation](#user-implementation)
 * [Mockup](#mockup)
+* [Developer Guide](#developer-guide)
+
 
 ## Team GEOstudy
 * [In Woo Park](https://inwoocs.github.io/)
@@ -68,3 +70,54 @@ Admins will be able to view and edit all user's spots as well as delete them onc
 * **Edit Spot page**
 ![Mockup 7](images/edit.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/edit)
+
+## Developer Guide
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+# Installation
+
+First, install [Meteor](https://www.meteor.com/install)
+
+Second, visit the [Geostudy Application Github Page](https://github.com/geostudy/geostudy-source), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the geostudy-source/app direction and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start 
+```
+If all goes well, the application will appear at [https://localhost:3000](https://localhost:3000).
+
+# Application Design 
+
+Geostudy is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Geostudy.
+
+# Initilization 
+
+The [config](https://github.com/geostudy/geostudy-source/tree/master/config) directory is intended to hold settings files. The repository contains one file: [config/settings.development.json](https://github.com/geostudy/geostudy-source/tree/master/config).
+
+This file contains default definitions for default accounts and default profiles.
+
+The [app/private](https://github.com/geostudy/geostudy-source/tree/master/app/private) directory is intended to hold settings files. The repository contains one file: [app/private/data.json](https://github.com/geostudy/geostudy-source/blob/master/app/private/data.json).
+
+This file contains default definitions for spots, tags, and ratings.
+
+The settings.development.json file contains a field called “loadAssetsFile”. It is set to false, but if you change it to true, then the data in the file app/private/data.json will also be loaded. The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
+
+## Quality Assurance 
+
+# ESLint
+
+Geostudy includes a [.eslintrc](https://github.com/geostudy/geostudy-source/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESlint from the command line as follows:
+
+```
+meteor npm run lint 
+```
+
+ESlint should run without generating any errors.
+It's significantly easier to do development with ESLint integrated directly into your IDE (i.e. Intellij)
