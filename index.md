@@ -43,33 +43,27 @@ Users will be able to register an account and log in. They will then be able to 
 Admins will be able to view and edit all user's spots as well as delete them once logged in.
 
 ### Step By Step 
-* **Landing page**
-The official page lands on an infographic which allows users to create an account or login if they are a returning user. The bottom three paragraphs provide a summary on our mission statement and the services we provide. 
+The * **Landing page** lands on an infographic which allows users to create an account or login if they are a returning user. The bottom three paragraphs provide a summary on our mission statement and the services we provide. 
 ![Landing](images/landing.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/)
 
-* **Login Page**
-Login in if you are a returning user. 
+The * **Login Page** allows returning users to login.
 ![Login](images/login.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/signin)
 
-* **Registration Page**
-Create an account if you are a new user. 
+The * **Registration Page** allows new users to create an account. 
 ![Registration](images/registration.PNG)
 [View Page](http://geostudymhc3.meteorapp.com/#/signup)
 
-* **Spots page**
-The spots page provides users with the current collection of spots provided by admin or users. 
+The * **Spots page** provides users with the current collection of spots provided by admin or users. 
 ![Mockup 5](images/spots.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/spots)
 
-* **Add Spot page**
-The add spots page asks users for the name, image, address, and location of the study spot they would like to add. 
+The * **Add Spot page** asks users for the name, image, address, and location of the study spot they would like to add. 
 ![Mockup 6](images/add.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/add)
 
-* **Edit Spot page**
-The edit spots page asks users for the information they would like to change about a spot. 
+The * **Edit Spot page** asks users for the information they would like to change about a spot. 
 ![Mockup 7](images/edit.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/edit)
 
