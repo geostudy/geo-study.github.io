@@ -74,7 +74,7 @@ Admins will be able to view and edit all user's spots as well as delete them onc
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
-# Installation
+## Installation
 
 First, install [Meteor](https://www.meteor.com/install)
 
