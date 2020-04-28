@@ -4,7 +4,7 @@
 * [Application](#application)
 * [Goals](#goals)
 * [Overview](#overview)
-* [User Implemenation](#user-implementation)
+* [User Guide](#user-guide)
 * [Mockup](#mockup)
 * [Developer Guide](#developer-guide)
 
