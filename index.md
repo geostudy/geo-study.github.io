@@ -37,37 +37,39 @@ Users can submit locations that others will be able to see.  Based on their expe
 
 -Based on the proposal by Christian Jensen-
 
-## User Implementation
+## User Guide
 Users will be able to register an account and log in. They will then be able to add spots (study locations) and view other spots by other users. They can edit their own input spots, but only view other's spots.
 
 Admins will be able to view and edit all user's spots as well as delete them once logged in.
 
-## Mockup
+### Step By Step 
 * **Landing page**
-![Mockup 1](images/landing.png)
+The official page lands on an infographic which allows users to create an account or login if they are a returning user. The bottom three paragraphs provide a summary on our mission statement and the services we provide. 
+![Landing](images/landing.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/)
 
 * **Login Page**
-![Mockup 2](images/login.png)
+Login in if you are a returning user. 
+![Login](images/login.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/signin)
 
 * **Registration Page**
-![Mockup 3](images/registration.PNG)
+Create an account if you are a new user. 
+![Registration](images/registration.PNG)
 [View Page](http://geostudymhc3.meteorapp.com/#/signup)
 
-* **Map page**
-![Mockup 4](images/map.png)
-[View Page](http://geostudymhc3.meteorapp.com/#/map)
-
 * **Spots page**
+The spots page provides users with the current collection of spots provided by admin or users. 
 ![Mockup 5](images/spots.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/spots)
 
 * **Add Spot page**
+The add spots page asks users for the name, image, address, and location of the study spot they would like to add. 
 ![Mockup 6](images/add.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/add)
 
 * **Edit Spot page**
+The edit spots page asks users for the information they would like to change about a spot. 
 ![Mockup 7](images/edit.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/edit)
 
