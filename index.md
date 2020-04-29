@@ -5,7 +5,6 @@
 * [Goals](#goals)
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Mockup](#mockup)
 * [Developer Guide](#developer-guide)
 
 
