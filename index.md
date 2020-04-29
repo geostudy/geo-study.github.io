@@ -81,7 +81,13 @@ Third, cd into the geostudy-source/app direction and install libraries with:
 $ meteor npm install
 ```
 
-Fourth, run the system with:
+Fourth, install the Google maps react library with:
+
+```
+$ npm install --save react-google-maps
+```
+
+Fifth, run the system with:
 
 ```
 $ meteor npm run start 
