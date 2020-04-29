@@ -70,7 +70,7 @@ The **Edit Spot page** asks users for the information they would like to change 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
-## Installation
+### Installation
 
 First, install [Meteor](https://www.meteor.com/install)
 
@@ -89,11 +89,11 @@ $ meteor npm run start
 ```
 If all goes well, the application will appear at [https://localhost:3000](https://localhost:3000).
 
-## Application Design 
+### Application Design 
 
 Geostudy is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Geostudy.
 
-## Initilization 
+### Initilization 
 
 The [config](https://github.com/geostudy/geostudy-source/tree/master/config) directory is intended to hold settings files. The repository contains one file: [config/settings.development.json](https://github.com/geostudy/geostudy-source/tree/master/config).
 
@@ -105,9 +105,9 @@ This file contains default definitions for spots, tags, and ratings.
 
 The settings.development.json file contains a field called “loadAssetsFile”. It is set to false, but if you change it to true, then the data in the file app/private/data.json will also be loaded. The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
 
-## Quality Assurance 
+### Quality Assurance 
 
-### ESLint
+#### ESLint
 
 Geostudy includes a [.eslintrc](https://github.com/geostudy/geostudy-source/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESlint from the command line as follows:
 
