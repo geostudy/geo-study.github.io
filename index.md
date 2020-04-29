@@ -67,7 +67,7 @@ The **Edit Spot page** asks users for the name, image, location, and description
 [View Page](http://geostudymhc3.meteorapp.com/#/edit)
 
 The **Map page** displays a google map for future implementation with geo-tags.
-![Mockup 8](images/edit.png)
+![Mockup 8](images/map.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/map)
 
 ## Developer Guide
