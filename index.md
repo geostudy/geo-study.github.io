@@ -7,7 +7,6 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 
-
 ## Team GEOstudy
 * [In Woo Park](https://inwoocs.github.io/)
 * [Michael Chun](https://mhkfchun.github.io/)
