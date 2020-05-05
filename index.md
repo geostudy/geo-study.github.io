@@ -72,6 +72,9 @@ The **Map page** displays a google map for future implementation with geo-tags.
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
+### Tutorial Video for Developer Guide
+If you need a guide to help you, reference this [tutorial video](https://www.youtube.com/).
+
 ### Installation
 
 First, install [Meteor](https://www.meteor.com/install)
