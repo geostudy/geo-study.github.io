@@ -63,7 +63,7 @@ The **Add Spot Page** asks users for the name, image, location, and description 
 [View Page](http://geostudymhc3.meteorapp.com/#/add)
 
 The **Edit Spot page** asks users for the name, image, location, and description of the study spot they would like to edit. Users can also edit the tags that are associated with the spot they are editing.
-![Mockup 7](images/final-editspotpage.png)
+![Mockup 7](images/final-editspotspage.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/edit)
 
 The **My Study Spots Page** shows the current logged-in users, spots, they have contributed to our site. They also have the ability to enter the edit spots page from this tab. 
