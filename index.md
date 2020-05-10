@@ -18,7 +18,7 @@
 * [Running Application](http://geostudymhc3.meteorapp.com/#/)
 * [Milestone 1](https://github.com/geostudy/geostudy-source/projects/2)
 * [Milestone 2](https://github.com/geostudy/geostudy-source/projects/3)
-* [Mileston 3](https://github.com/geostudy/geostudy-source/projects/4)
+* [Milestone 3](https://github.com/geostudy/geostudy-source/projects/4)
 
 ## Goals
 * Learn practical applications of coding.
