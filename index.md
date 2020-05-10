@@ -43,32 +43,34 @@ Admins will be able to view and edit all user's spots as well as delete them onc
 
 ### Step By Step
 The **Landing page** is the starting page for new users, which allows them to create an account or login if they are a returning user. The page provides a summary of our mission statement and the services we provide.
-![Landing](images/landing.png)
+![Landing](images/final-landing.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/)
 
 The **Login Page** allows returning users to login.
-![Login](images/login.png)
+![Login](images/final-login.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/signin)
 
 The **Registration Page** allows new users to create an account.
-![Registration](images/registration.PNG)
+![Registration](images/final-registration.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/signup)
 
-The **Spots page** provides users with the various spots located around the UH Campus and surrounding area. This also shows users the current ratings of each spot and how many ratings it has in parenthesis. If a user owns the spot, they will be able to reach the editing page to edit their spot. Admins are able to see the delete button that removes the spot from the page. *Adding new Ratings to be added*
-![Mockup 5](images/spots.png)
+The **View Spots Page** provides users with the various spots located around the UH Campus and surrounding area. This also shows users the current ratings of each spot and how many ratings it has in parenthesis. If a user owns the spot, they will be able to reach the editing page to edit their spot. Admins are able to see the delete button that removes the spot from the page. *Adding new Ratings to be added*
+![Mockup 5](images/final-viewstudyspots.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/spots)
 
-The **Add Spot page** asks users for the name, image, location, and description of the study spot they would like to add and displays a google map for future use. *Tags collection integration to be added for successful submit.*
-![Mockup 6](images/add.png)
+The **Add Spot Page** asks users for the name, image, location, and description of the study spot they would like to add. The Add Spot page also supports a tags collection where users can attach tags to the spots (i.e. AC, Indoors, Sunny)
+![Mockup 6](images/final-addstudyspots.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/add)
 
-The **Edit Spot page** asks users for the name, image, location, and description of the study spot they would like to edit and displays a google map for future use. *Tags collection integration to be added for successful edit.*
-![Mockup 7](images/edit.png)
+The **Edit Spot page** asks users for the name, image, location, and description of the study spot they would like to edit. Users can also edit the tags that are associated with the spot they are editing.
+![Mockup 7](images/final-editspotpage.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/edit)
 
-The **Map page** displays a google map for future implementation with geo-tags.
-![Mockup 8](images/map.png)
+The **My Study Spots Page** shows the current logged-in users, spots, they have contributed to our site. They also have the ability to enter the edit spots page from this tab. 
+![Mockup 8](images/final-mystudyspots.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/map)
+
+The **Suggest A Tag Page** allows users to suggest a tag they would like the site to have. These suggestions will be saved so admins can filter through the suggestions an officialize appropriate tags.
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
