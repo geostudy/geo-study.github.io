@@ -44,8 +44,7 @@ Admins will be able to view and edit all user's spots as well as delete them onc
 ### Step By Step
 The **Landing page** is the starting page for new users, which allows them to create an account or login if they are a returning user. The page provides a summary of our mission statement and the services we provide.
 ![Landing](images/final-landing.png)
-[View Page](http://geostudymhc3.meteorapp.com/#/)
-
+[View Page](http://geostudymhc3.meteorapp.com/#/) 
 ##
 The **Login Page** allows returning users to login.
 ![Login](images/final-login.png)
