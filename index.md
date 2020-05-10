@@ -43,6 +43,7 @@ Admins will be able to view and edit all user's spots as well as delete them onc
 
 Users can also suggest tags that they believe will be appropriate for our site.
 
+##
 ### First Impressions
 
 ##
