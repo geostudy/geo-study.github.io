@@ -45,6 +45,7 @@ Admins will be able to view and edit all user's spots as well as delete them onc
 The **Landing page** is the starting page for new users, which allows them to create an account or login if they are a returning user. The page provides a summary of our mission statement and the services we provide.
 ![Landing](images/final-landing.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/)
+##
 
 The **Login Page** allows returning users to login.
 ![Login](images/final-login.png)
@@ -64,7 +65,7 @@ The **Add Spot Page** asks users for the name, image, location, and description 
 
 The **Edit Spot page** asks users for the name, image, location, and description of the study spot they would like to edit. Users can also edit the tags that are associated with the spot they are editing.
 ![Edit Spot](images/final-editspotspage.png)
-[View Page](http://geostudymhc3.meteorapp.com/#/edit)
+[View Page](http://geostudymhc3.meteorapp.com/#/edit/wa4MQepauMrPj2ZXx)
 
 The **My Study Spots Page** shows the current logged-in users, spots, they have contributed to our site. They also have the ability to enter the edit spots page from this tab. 
 ![My Spots](images/final-mystudyspots.png)
