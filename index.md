@@ -37,14 +37,19 @@ Users can submit locations that others will be able to see.  Based on their expe
 -Based on the proposal by Christian Jensen-
 
 ## User Guide
-Users will be able to register an account and log in. They will then be able to add spots (study locations) and view other spots by other users. They can edit their own input spots, but only view other's spots.
+Users will be able to register an account and log in. They will then be able to add spots (study locations) and view other spots by other users. They can edit their own input spots, but only view other's spots. 
 
 Admins will be able to view and edit all user's spots as well as delete them once logged in.
 
-### Step By Step
+Users can also suggest tags that they believe will be appropriate for our site.
+
+### First Impressions
+
+##
 The **Landing page** is the starting page for new users, which allows them to create an account or login if they are a returning user. The page provides a summary of our mission statement and the services we provide.
 ![Landing](images/final-landing.png)
 [View Page](http://geostudymhc3.meteorapp.com/#/) 
+
 ##
 The **Login Page** allows returning users to login.
 ![Login](images/final-login.png)
