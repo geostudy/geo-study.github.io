@@ -91,7 +91,7 @@ The **Suggest A Tag Page** allows users to suggest a tag they would like the sit
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
 ### Tutorial Video for Developer Guide
-If you need a guide to help you, reference this [tutorial video](https://www.youtube.com/watch?v=gt7z-BA0OW4&feature=youtu.be).
+If you need a guide to help you, reference this [tutorial video](https://youtu.be/yPrlLRYZJ70).
 
 ### Installation
 
