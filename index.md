@@ -140,3 +140,38 @@ meteor npm run lint
 
 ESlint should run without generating any errors.
 It's significantly easier to do development with ESLint integrated directly into your IDE (i.e. Intellij)
+
+## Here's a message from our satisfied users!
+
+### Review 1 (CompSci Cali)
+
+Easy to use interface. Would be nice to have a search feature or a way to sort the spots. Maybe being able to expand a spot, like where each spot has its own page would be nice. Otherwise it is a good concept and well executed.
+
+### Review 2 (LCC Electrician)
+
+What am I doing? It's okay and looks good. Not hard to understand. No other comments why is there so much questions. 
+
+### Review 3 (UHM Bio)
+
+I like the spots page, says maps not loading properly? Looks like an official website for the most part lmao. I like how it's darkmode to stop my eyes from getting carpel tunnel. 
+
+### Review 4 (UHM Music) 
+
+It looks good, the tag system is kind of useless though. Like if I wanted a certain tag, where do I go search? Presentation 8.5/10, usefulness 5/10, easy to understand 9/10.
+
+### Review 5 (UHM Korean/CompSci)
+
+I like the dark theme of the website, but I feel like each study spot segment needs borders. Also, the click to rate button, has 1 star filled in so it looks like all the places have a 1 star review, other than that, pretty good. 
+
+### Review 6 (UHM MIS)
+
+It's good lol. Also you could add a sort feature by the tags, but like it's good already.
+
+### Review 7 (UHM CompSci) 
+
+god damn looks good doe. 
+
+### Review 8 (UHM CompSci)
+
+I think the color palette could be more UH themed? not rlly important though but maybe a logo would be nice. the tags are clickable but where does it go? nice pagination though.
+for the suggest a tag it asks for name which is a bit misleading do they want my name or the tag name, maybe tag name?
