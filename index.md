@@ -66,7 +66,7 @@ The Registration Page allows new users to create an account.
 ### User Home
 
 The User's Home Page which removes the login and register buttons and opens up the navigation bar items.
-![User Home](images/user-home)
+![User Home](images/user-home.png)
 
 ### View Study Spots
 
