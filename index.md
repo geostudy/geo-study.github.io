@@ -104,29 +104,29 @@ This page prevents the suggestion of tags that already exist or suggestions that
 ### Administrator Home
 
 The Administrator Home Page is similar to the User Home Page, but allows access to admin items in the navigation bar.
-![Admin Home](images/admin-home)
+![Admin Home](images/admin-home.png)
 
 ### Administrator Suggestions
 
 The Administrator Suggestions Page gives admins access to the suggested tags and allows them to add or reject them. If rejected it will remove the suggestion. If added, it will be added as a usable tag for any Study Spots in the future.
-![Admin Suggestions](images/admin-suggestions)
+![Admin Suggestions](images/admin-suggestions.png)
 
 ### Administrator Tags
 
 The Administrator Tags Page gives admins access to the currently available tags. From here they can edit or delete existing tags.
 
 This page prevents tags from being edited to itself or to already existing tag names.
-![Admin Tags](images/admin-tags)
+![Admin Tags](images/admin-tags.png)
 
 ### View Study Spots (Admin View)
 
 The same as View Study Spots Page, but when logged in as an admin, shows the owner of the Study Spot as well as allows access to the delete button which will delete the current Study Spot and any ratings associated with it. It will also remove the Study Spot from being associated with any Tags as well.
-![Admin Study Spots](images/study-spots-admin)
+![Admin Study Spots](images/study-spots-admin.png)
 
 ### My Study Spots (Admin View)
 
 The same as My Study Spots Page, but when logged in as an admin allows access to the delete button which will delete the current Study Spot and any ratings associated with it. It will also remove the Study Spot from being associated with any Tags as well.
-![Admin My Study Spots](images/my-study-spots-admin)
+![Admin My Study Spots](images/my-study-spots-admin.png)
 
 ## Community Feedback
 
